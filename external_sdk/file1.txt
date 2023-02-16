@@ -1,2 +1,1 @@
 content of file 1
-bugfix 1
